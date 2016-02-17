@@ -1,6 +1,7 @@
 # hello-world
-Learning to use **GitHub** on the desktop  with the Hello World tutorial 
+Learning to use **GitHub** with the Hello World tutorial 
 
+This is my practice time with **GitHub**. I've never used it before.
 
 ###I want to learn:
 
@@ -11,5 +12,3 @@ Learning to use **GitHub** on the desktop  with the Hello World tutorial
 [A link to my favourite comic](http://xkcd.com/1643/)
 
 ![](http://imgs.xkcd.com/comics/dna.png)
-
-Let's ride!
